@@ -145,6 +145,8 @@
     <string name="alert_slider_mode_silent">靜音</string>
     <string name="alert_slider_mode_vibration">震動</string>
     <string name="alert_slider_mode_normal">正常</string>
+    <string name="alert_slider_mute_media_title">靜音媒體音量</string>
+    <string name="alert_slider_mute_media_summary">切換到靜音模式時，將媒體音量設為靜音</string>
     <string name="thermal_title">最佳化設定檔</string>
     <string name="thermal_summary">調整每個應用程式的設定檔以取得最佳效能</string>
     <string name="thermal_default">無最佳化</string>
